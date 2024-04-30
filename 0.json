@@ -1,0 +1,27 @@
+{
+"name": "The Simpleton's",
+        "description": "The simpletons are not as simple as they seem. Think about it. Only 222 original NFTs. Utility? Maybe, maybe. All simpletons are drawn personally by the founder."
+      },
+          
+        "image": "https://s.getgems.io/nft/c/6622545174e95a8f0e00c5d3/1/image.png",
+        "attributes": [
+          {
+            "trait_type": "Body",
+            "value": "Coat"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Fat"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Patch"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Helmet"
+          },
+          {
+            "trait_type": "Makeup",
+            "value": "Star"
+          }
