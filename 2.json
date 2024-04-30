@@ -1,1 +1,31 @@
-
+{
+"name": "The Kenny",
+        description": "Collecting  of NFT Simpletons is not as easy as it seems. Ha-ha. This is Kenny!",
+      },
+          
+        "image": "https://s.getgems.io/nft/c/6622545174e95a8f0e00c5d3/2/image.png",
+        "attributes": [
+         {
+            "trait_type": "Body",
+            "value": "Japan"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Normal"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Fat"
+          },
+          {
+            "trait_type": "Head",
+            "value": "Hat"
+          },
+          {
+            "trait_type": "Makeup",
+            "value": "Star"
+          },
+          {
+            "trait_type": "Unique",
+            "value": "Owl"
+          }
